@@ -57,8 +57,19 @@ Packages for every Arch installation.
 - [`jdk-openjdk`](https://archlinux.org/packages/extra/x86_64/jdk-openjdk/) (Java)
 - [`ruby`](https://archlinux.org/packages/extra/x86_64/ruby/) (Scripting Language)
 - [`rustup`](https://archlinux.org/packages/community/x86_64/rustup/) (Rust Toolchain Installer)
+- [`go`](https://archlinux.org/packages/community/x86_64/go/) (Go compiler)
 - [`stack`](https://archlinux.org/packages/community/x86_64/stack/) (Haskell Build Tool)
 - [`swi-prolog`](https://archlinux.org/packages/community/x86_64/swi-prolog/) (Prolog Environment)
+
+## Containers
+
+- [`podman`](https://archlinux.org/packages/community/x86_64/podman/) (OCI container runner)
+- [`kubectl`](https://archlinux.org/packages/community/x86_64/kubectl/) (Kubernetes API client)
+- [`helm`](https://archlinux.org/packages/community/x86_64/helm/) (Kubernetes package manager)
+
+## Sysadmin
+
+- [`ansible`](https://archlinux.org/packages/community/any/ansible/) (IT automation, infrastructure as code)
 
 ## Desktop
 
