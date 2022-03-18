@@ -71,6 +71,7 @@ Packages for every Arch installation.
 - [`valgrind`](https://archlinux.org/packages/extra/x86_64/valgrind/) (Memory debugger)
 - [`visualvm`](https://archlinux.org/packages/extra/x86_64/visualvm/) (JVM profiler)
 - [`strace`](https://archlinux.org/packages/extra/x86_64/strace/) (Syscall tracer)
+- [`patchelf`](https://archlinux.org/packages/community/x86_64/patchelf/) (ELF file patcher)
 
 ## Containers
 
