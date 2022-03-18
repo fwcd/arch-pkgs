@@ -48,8 +48,13 @@ Packages for every Arch installation.
 
 - [`base-devel`](https://archlinux.org/groups/x86_64/base-devel/) (Basic Build Tools)
 - [`visual-studio-code-bin` (AUR)](https://aur.archlinux.org/packages/visual-studio-code-bin) (Editor/IDE)
+- [`cmake`](https://archlinux.org/packages/extra/x86_64/cmake/) (Meta Build Tool)
+- [`ninja`](https://archlinux.org/packages/community/x86_64/ninja/) (Build System)
 - [`clang`](https://archlinux.org/packages/extra/x86_64/clang/) (C/C++/ObjC Compiler)
 - [`sqlite`](https://archlinux.org/packages/core/x86_64/sqlite/) (Embedded Database)
+- [`nodejs`](https://archlinux.org/packages/community/x86_64/nodejs/) (JS runtime)
+- [`npm`](https://archlinux.org/packages/community/any/npm/) (Node.js package manager)
+- [`jdk-openjdk`](https://archlinux.org/packages/extra/x86_64/jdk-openjdk/) (Java)
 - [`ruby`](https://archlinux.org/packages/extra/x86_64/ruby/) (Scripting Language)
 - [`rustup`](https://archlinux.org/packages/community/x86_64/rustup/) (Rust Toolchain Installer)
 - [`stack`](https://archlinux.org/packages/community/x86_64/stack/) (Haskell Build Tool)
