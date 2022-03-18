@@ -88,6 +88,7 @@ Packages for every Arch installation.
 - [`pipewire`](https://archlinux.org/packages/extra/x86_64/pipewire/) (Audio processor/router)
 - [`pipewire-pulse`](https://archlinux.org/packages/extra/x86_64/pipewire-pulse/) (PulseAudio replacement)
 - [`pipewire-jack`](https://archlinux.org/packages/extra/x86_64/pipewire-jack/) (JACK replacement)
+- [`helvum`](https://archlinux.org/packages/community/x86_64/helvum/) (PipeWire patchbay)
 - [`vlc`](https://archlinux.org/packages/extra/x86_64/vlc/) (Multimedia player)
 - [`mixxx`](https://archlinux.org/packages/community/x86_64/mixxx/) (DJing)
 - [`spotify` (AUR)](https://aur.archlinux.org/packages/spotify) (Music streaming)
