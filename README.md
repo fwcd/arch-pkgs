@@ -119,6 +119,12 @@ Packages for every Arch installation.
 - [`libreoffice-fresh`](https://archlinux.org/packages/extra/x86_64/libreoffice-fresh/) (Office Suite)
 - [`zotero` (AUR)](https://aur.archlinux.org/packages/zotero) (Bibliography Manager)
 
+## Fonts
+
+- [`ttf-liberation`](https://archlinux.org/packages/community/any/ttf-liberation/) (Arial/Times New Roman/Courier New replacement)
+- [`ttf-jetbrains-mono`](https://archlinux.org/packages/community/any/ttf-jetbrains-mono/) (Typeface for developers)
+- [`ttf-font-awesome`](https://archlinux.org/packages/community/any/ttf-font-awesome/) (Icon font)
+
 ## Audio/Video
 
 - [`pipewire`](https://archlinux.org/packages/extra/x86_64/pipewire/) (Audio processor/router)
