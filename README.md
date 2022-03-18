@@ -30,15 +30,17 @@ Packages for every Arch installation.
 - [`python`](https://archlinux.org/packages/core/x86_64/python/) (Scripting Language)
 - [`sudo`](https://archlinux.org/packages/core/x86_64/sudo/) (Run as Root)
 - [`zsh`](https://archlinux.org/packages/extra/x86_64/zsh/) (Shell)
-- [`curl`](https://archlinux.org/packages/core/x86_64/curl/) (URL downloader)
+- [`curl`](https://archlinux.org/packages/core/x86_64/curl/) (URL Downloader)
+- [`less`](https://archlinux.org/packages/core/x86_64/less/) (Text Viewer)
 
 ## Development
 
 - [`base-devel`](https://archlinux.org/groups/x86_64/base-devel/) (Basic Build Tools)
+- [`visual-studio-code-bin` (AUR)](https://aur.archlinux.org/packages/visual-studio-code-bin) (Editor/IDE)
 - [`clang`](https://archlinux.org/packages/extra/x86_64/clang/) (C/C++/ObjC Compiler)
 - [`rustup`](https://archlinux.org/packages/community/x86_64/rustup/) (Rust Toolchain Installer)
 - [`stack`](https://archlinux.org/packages/community/x86_64/stack/) (Haskell Build Tool)
-- [`swi-prolog`](https://archlinux.org/packages/community/x86_64/swi-prolog/) (Prolog)
+- [`swi-prolog`](https://archlinux.org/packages/community/x86_64/swi-prolog/) (Prolog Environment)
 
 ## Internet
 
@@ -49,7 +51,13 @@ Packages for every Arch installation.
 - [`mattermost-desktop-bin` (AUR)](https://aur.archlinux.org/packages/mattermost-desktop-bin) (Text Chat)
 - [`zulip-desktop-bin` (AUR)](https://aur.archlinux.org/packages/zulip-desktop-bin) (Text Chat)
 
-## Audio
+## Productivity
+
+- [`texlive-most`](https://archlinux.org/groups/x86_64/texlive-most/) (LaTeX)
+- [`libreoffice-fresh`](https://archlinux.org/packages/extra/x86_64/libreoffice-fresh/) (Office Suite)
+- [`zotero` (AUR)](https://aur.archlinux.org/packages/zotero) (Bibliography Manager)
+
+## Audio/Video
 
 - [`pipewire`](https://archlinux.org/packages/extra/x86_64/pipewire/) (Audio processor/router)
 - [`pipewire-pulse`](https://archlinux.org/packages/extra/x86_64/pipewire-pulse/) (PulseAudio replacement)
@@ -59,3 +67,9 @@ Packages for every Arch installation.
 - [`spotify` (AUR)](https://aur.archlinux.org/packages/spotify) (Music streaming)
 - [`audacity`](https://archlinux.org/packages/community/x86_64/audacity/) (Audio editor)
 - [`ardour`](https://archlinux.org/packages/community/x86_64/ardour/) (DAW)
+- [`kdenlive`](https://archlinux.org/packages/extra/x86_64/kdenlive/) (Video editor)
+
+## Gaming
+
+- [`steam`](https://archlinux.org/packages/multilib/x86_64/steam/) (Game Distribution Platform)
+- [`multimc-bin` (AUR)](https://aur.archlinux.org/packages/multimc-bin) (Minecraft Launcher)
