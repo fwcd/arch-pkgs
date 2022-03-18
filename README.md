@@ -43,6 +43,7 @@ Packages for every Arch installation.
 - [`jq`](https://archlinux.org/packages/community/x86_64/jq/) (JSON processor)
 - [`zip`](https://archlinux.org/packages/extra/x86_64/zip/) (ZIP archiver)
 - [`unzip`](https://archlinux.org/packages/extra/x86_64/unzip/) (ZIP unarchiver)
+- [`whois`](https://archlinux.org/packages/extra/x86_64/whois/) (Whois client)
 
 ## Development
 
@@ -61,6 +62,8 @@ Packages for every Arch installation.
 - [`stack`](https://archlinux.org/packages/community/x86_64/stack/) (Haskell Build Tool)
 - [`dotnet-sdk`](https://archlinux.org/packages/community/x86_64/dotnet-sdk/) (.NET Core)
 - [`swi-prolog`](https://archlinux.org/packages/community/x86_64/swi-prolog/) (Prolog Environment)
+- [`valgrind`](https://archlinux.org/packages/extra/x86_64/valgrind/) (Memory debugger)
+- [`visualvm`](https://archlinux.org/packages/extra/x86_64/visualvm/) (JVM profiler)
 
 ## Containers
 
@@ -100,6 +103,8 @@ Packages for every Arch installation.
 - [`signal-desktop`](https://archlinux.org/packages/community/x86_64/signal-desktop/) (Messenger)
 - [`mattermost-desktop-bin` (AUR)](https://aur.archlinux.org/packages/mattermost-desktop-bin) (Text Chat)
 - [`zulip-desktop-bin` (AUR)](https://aur.archlinux.org/packages/zulip-desktop-bin) (Text Chat)
+- [`zoom` (AUR)](https://aur.archlinux.org/packages/zoom) (Video Conferencing)
+- [`wireshark-qt`](https://archlinux.org/packages/community/x86_64/wireshark-qt/) (Traffic analyzer)
 
 ## Bluetooth
 
