@@ -65,6 +65,7 @@ Packages for every Arch installation.
 - [`swi-prolog`](https://archlinux.org/packages/community/x86_64/swi-prolog/) (Prolog Environment)
 - [`valgrind`](https://archlinux.org/packages/extra/x86_64/valgrind/) (Memory debugger)
 - [`visualvm`](https://archlinux.org/packages/extra/x86_64/visualvm/) (JVM profiler)
+- [`strace`](https://archlinux.org/packages/extra/x86_64/strace/) (Syscall tracer)
 
 ## Containers
 
