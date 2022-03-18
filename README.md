@@ -30,7 +30,7 @@ Packages for every Arch installation.
 - [`python`](https://archlinux.org/packages/core/x86_64/python/) (Scripting Language)
 - [`sudo`](https://archlinux.org/packages/core/x86_64/sudo/) (Run as Root)
 - [`zsh`](https://archlinux.org/packages/extra/x86_64/zsh/) (Shell)
-- [`curl`](https://archlinux.org/packages/core/x86_64/curl/) (URL Downloader)
+- [`curl`](https://archlinux.org/packages/core/x86_64/curl/) (URL downloader)
 - [`less`](https://archlinux.org/packages/core/x86_64/less/) (Text Viewer)
 - [`openssh`](https://archlinux.org/packages/core/x86_64/openssh/) (SSH client)
 - [`avahi`](https://archlinux.org/packages/extra/x86_64/avahi/) (mDNS/DNS-SD/Bonjour stack)
@@ -44,6 +44,7 @@ Packages for every Arch installation.
 - [`zip`](https://archlinux.org/packages/extra/x86_64/zip/) (ZIP archiver)
 - [`unzip`](https://archlinux.org/packages/extra/x86_64/unzip/) (ZIP unarchiver)
 - [`whois`](https://archlinux.org/packages/extra/x86_64/whois/) (Whois client)
+- [`wget`](https://archlinux.org/packages/extra/x86_64/wget/) (CLI downloader)
 
 ## Development
 
