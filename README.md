@@ -55,6 +55,13 @@ Packages for every Arch installation.
 - [`stack`](https://archlinux.org/packages/community/x86_64/stack/) (Haskell Build Tool)
 - [`swi-prolog`](https://archlinux.org/packages/community/x86_64/swi-prolog/) (Prolog Environment)
 
+## Desktop
+
+- [`xorg-server`](https://archlinux.org/packages/extra/x86_64/xorg-server/) (Display server)
+- [`sddm`](https://archlinux.org/packages/extra/x86_64/sddm/) (Display manager)
+- [`plasma`](https://archlinux.org/groups/x86_64/plasma/) (Desktop environment, KDE)
+- [`kde-applications`](https://archlinux.org/groups/x86_64/kde-applications/) (Desktop apps, choose what you need)
+
 ## Internet
 
 - [`firefox`](https://archlinux.org/packages/extra/x86_64/firefox/) (Web Browser)
@@ -66,6 +73,7 @@ Packages for every Arch installation.
 
 ## Productivity
 
+- [`okular`](https://archlinux.org/packages/extra/x86_64/okular/) (Document Viewer)
 - [`texlive-most`](https://archlinux.org/groups/x86_64/texlive-most/) (LaTeX)
 - [`libreoffice-fresh`](https://archlinux.org/packages/extra/x86_64/libreoffice-fresh/) (Office Suite)
 - [`zotero` (AUR)](https://aur.archlinux.org/packages/zotero) (Bibliography Manager)
