@@ -72,6 +72,7 @@ Packages for every Arch installation.
 - [`visualvm`](https://archlinux.org/packages/extra/x86_64/visualvm/) (JVM profiler)
 - [`strace`](https://archlinux.org/packages/extra/x86_64/strace/) (Syscall tracer)
 - [`patchelf`](https://archlinux.org/packages/community/x86_64/patchelf/) (ELF file patcher)
+- [`sccache`](https://archlinux.org/packages/community/x86_64/sccache/) (Shared compilation cache)
 
 ## Containers
 
