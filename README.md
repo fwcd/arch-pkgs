@@ -32,12 +32,25 @@ Packages for every Arch installation.
 - [`zsh`](https://archlinux.org/packages/extra/x86_64/zsh/) (Shell)
 - [`curl`](https://archlinux.org/packages/core/x86_64/curl/) (URL Downloader)
 - [`less`](https://archlinux.org/packages/core/x86_64/less/) (Text Viewer)
+- [`openssh`](https://archlinux.org/packages/core/x86_64/openssh/) (SSH client)
+- [`avahi`](https://archlinux.org/packages/extra/x86_64/avahi/) (mDNS/DNS-SD/Bonjour stack)
+- [`yay` (AUR)](https://aur.archlinux.org/packages/yay) (AUR helper)
+
+## CLI Tools
+
+- [`trash-cli`](https://archlinux.org/packages/community/any/trash-cli/) (Trash helper)
+- [`tree`](https://archlinux.org/packages/extra/x86_64/tree/) (Directory listing)
+- [`jq`](https://archlinux.org/packages/community/x86_64/jq/) (JSON processor)
+- [`zip`](https://archlinux.org/packages/extra/x86_64/zip/) (ZIP archiver)
+- [`unzip`](https://archlinux.org/packages/extra/x86_64/unzip/) (ZIP unarchiver)
 
 ## Development
 
 - [`base-devel`](https://archlinux.org/groups/x86_64/base-devel/) (Basic Build Tools)
 - [`visual-studio-code-bin` (AUR)](https://aur.archlinux.org/packages/visual-studio-code-bin) (Editor/IDE)
 - [`clang`](https://archlinux.org/packages/extra/x86_64/clang/) (C/C++/ObjC Compiler)
+- [`sqlite`](https://archlinux.org/packages/core/x86_64/sqlite/) (Embedded Database)
+- [`ruby`](https://archlinux.org/packages/extra/x86_64/ruby/) (Scripting Language)
 - [`rustup`](https://archlinux.org/packages/community/x86_64/rustup/) (Rust Toolchain Installer)
 - [`stack`](https://archlinux.org/packages/community/x86_64/stack/) (Haskell Build Tool)
 - [`swi-prolog`](https://archlinux.org/packages/community/x86_64/swi-prolog/) (Prolog Environment)
