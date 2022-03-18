@@ -91,6 +91,7 @@ Packages for every Arch installation.
 - [`traefik`](https://archlinux.org/packages/community/x86_64/traefik/) (Reverse proxy)
 - [`nginx`](https://archlinux.org/packages/extra/x86_64/nginx/) (Web server)
 - [`samba`](https://archlinux.org/packages/extra/x86_64/samba/) (SMB server)
+- [`shairport-sync`](https://archlinux.org/packages/community/x86_64/shairport-sync/) (AirPlay server)
 
 ## Desktop
 
