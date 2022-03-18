@@ -33,8 +33,10 @@ Packages for every Arch installation.
 - [`curl`](https://archlinux.org/packages/core/x86_64/curl/) (URL downloader)
 - [`less`](https://archlinux.org/packages/core/x86_64/less/) (Text Viewer)
 - [`openssh`](https://archlinux.org/packages/core/x86_64/openssh/) (SSH client)
+- [`rsync`](https://archlinux.org/packages/extra/x86_64/rsync/) (File copying)
 - [`avahi`](https://archlinux.org/packages/extra/x86_64/avahi/) (mDNS/DNS-SD/Bonjour stack)
 - [`yay` (AUR)](https://aur.archlinux.org/packages/yay) (AUR helper)
+- [`reflector`](https://archlinux.org/packages/community/any/reflector/) (Arch mirror updater)
 
 ## CLI Tools
 
@@ -45,6 +47,7 @@ Packages for every Arch installation.
 - [`unzip`](https://archlinux.org/packages/extra/x86_64/unzip/) (ZIP unarchiver)
 - [`whois`](https://archlinux.org/packages/extra/x86_64/whois/) (Whois client)
 - [`wget`](https://archlinux.org/packages/extra/x86_64/wget/) (CLI downloader)
+- [`rlwrap`](https://archlinux.org/packages/community/x86_64/rlwrap/) (Readline wrapper)
 
 ## Development
 
@@ -74,6 +77,7 @@ Packages for every Arch installation.
 - [`buildah`](https://archlinux.org/packages/community/x86_64/buildah/) (OCI container builder)
 - [`kubectl`](https://archlinux.org/packages/community/x86_64/kubectl/) (Kubernetes API client)
 - [`helm`](https://archlinux.org/packages/community/x86_64/helm/) (Kubernetes package manager)
+- [`k3s-bin` (AUR)](https://aur.archlinux.org/packages/k3s-bin) (Lightweight Kubernetes server)
 
 ## Sysadmin
 
@@ -91,6 +95,8 @@ Packages for every Arch installation.
 - [`sddm`](https://archlinux.org/packages/extra/x86_64/sddm/) (Display manager)
 - [`plasma`](https://archlinux.org/groups/x86_64/plasma/) (Desktop environment, KDE)
 - [`kde-applications`](https://archlinux.org/groups/x86_64/kde-applications/) (Desktop apps, choose what you need)
+- [`redshift`](https://archlinux.org/packages/community/x86_64/redshift/) (Warm colors at night)
+- [`mesa`](https://archlinux.org/packages/extra/x86_64/mesa/) (OpenGL implementation)
 
 ## Daemons
 
