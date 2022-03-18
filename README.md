@@ -59,17 +59,26 @@ Packages for every Arch installation.
 - [`rustup`](https://archlinux.org/packages/community/x86_64/rustup/) (Rust Toolchain Installer)
 - [`go`](https://archlinux.org/packages/community/x86_64/go/) (Go compiler)
 - [`stack`](https://archlinux.org/packages/community/x86_64/stack/) (Haskell Build Tool)
+- [`dotnet-sdk`](https://archlinux.org/packages/community/x86_64/dotnet-sdk/) (.NET Core)
 - [`swi-prolog`](https://archlinux.org/packages/community/x86_64/swi-prolog/) (Prolog Environment)
 
 ## Containers
 
 - [`podman`](https://archlinux.org/packages/community/x86_64/podman/) (OCI container runner)
+- [`podman-compose`](https://archlinux.org/packages/community/any/podman-compose/) (Compose file runner)
+- [`buildah`](https://archlinux.org/packages/community/x86_64/buildah/) (OCI container builder)
 - [`kubectl`](https://archlinux.org/packages/community/x86_64/kubectl/) (Kubernetes API client)
 - [`helm`](https://archlinux.org/packages/community/x86_64/helm/) (Kubernetes package manager)
 
 ## Sysadmin
 
 - [`ansible`](https://archlinux.org/packages/community/any/ansible/) (IT automation, infrastructure as code)
+
+## Server
+
+- [`traefik`](https://archlinux.org/packages/community/x86_64/traefik/) (Reverse proxy)
+- [`nginx`](https://archlinux.org/packages/extra/x86_64/nginx/) (Web server)
+- [`samba`](https://archlinux.org/packages/extra/x86_64/samba/) (SMB server)
 
 ## Desktop
 
@@ -87,9 +96,14 @@ Packages for every Arch installation.
 - [`mattermost-desktop-bin` (AUR)](https://aur.archlinux.org/packages/mattermost-desktop-bin) (Text Chat)
 - [`zulip-desktop-bin` (AUR)](https://aur.archlinux.org/packages/zulip-desktop-bin) (Text Chat)
 
+## Bluetooth
+
+- [`bluez`](https://archlinux.org/packages/extra/x86_64/bluez/) (Bluetooth daemons)
+
 ## Productivity
 
 - [`okular`](https://archlinux.org/packages/extra/x86_64/okular/) (Document Viewer)
+- [`cups`](https://archlinux.org/packages/extra/x86_64/cups/) (Printing System)
 - [`texlive-most`](https://archlinux.org/groups/x86_64/texlive-most/) (LaTeX)
 - [`libreoffice-fresh`](https://archlinux.org/packages/extra/x86_64/libreoffice-fresh/) (Office Suite)
 - [`zotero` (AUR)](https://aur.archlinux.org/packages/zotero) (Bibliography Manager)
@@ -100,6 +114,7 @@ Packages for every Arch installation.
 - [`pipewire-pulse`](https://archlinux.org/packages/extra/x86_64/pipewire-pulse/) (PulseAudio replacement)
 - [`pipewire-jack`](https://archlinux.org/packages/extra/x86_64/pipewire-jack/) (JACK replacement)
 - [`helvum`](https://archlinux.org/packages/community/x86_64/helvum/) (PipeWire patchbay)
+- [`ffmpeg`](https://archlinux.org/packages/extra/x86_64/ffmpeg/) (Audio/video converter)
 - [`vlc`](https://archlinux.org/packages/extra/x86_64/vlc/) (Multimedia player)
 - [`mixxx`](https://archlinux.org/packages/community/x86_64/mixxx/) (DJing)
 - [`spotify` (AUR)](https://aur.archlinux.org/packages/spotify) (Music streaming)
