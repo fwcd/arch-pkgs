@@ -87,6 +87,11 @@ Packages for every Arch installation.
 - [`plasma`](https://archlinux.org/groups/x86_64/plasma/) (Desktop environment, KDE)
 - [`kde-applications`](https://archlinux.org/groups/x86_64/kde-applications/) (Desktop apps, choose what you need)
 
+## Daemons
+
+- [`earlyoom`](https://archlinux.org/packages/community/x86_64/earlyoom/) (OOM daemon)
+- [`cronie`](https://archlinux.org/packages/core/x86_64/cronie/) (Cron daemon)
+
 ## Internet
 
 - [`firefox`](https://archlinux.org/packages/extra/x86_64/firefox/) (Web Browser)
@@ -104,6 +109,7 @@ Packages for every Arch installation.
 
 - [`okular`](https://archlinux.org/packages/extra/x86_64/okular/) (Document Viewer)
 - [`cups`](https://archlinux.org/packages/extra/x86_64/cups/) (Printing System)
+- [`cups-pdf`](https://archlinux.org/packages/extra/x86_64/cups-pdf/) (PDF Printing)
 - [`texlive-most`](https://archlinux.org/groups/x86_64/texlive-most/) (LaTeX)
 - [`libreoffice-fresh`](https://archlinux.org/packages/extra/x86_64/libreoffice-fresh/) (Office Suite)
 - [`zotero` (AUR)](https://aur.archlinux.org/packages/zotero) (Bibliography Manager)
