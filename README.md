@@ -69,6 +69,11 @@ Packages for every Arch installation.
 - [`ardour`](https://archlinux.org/packages/community/x86_64/ardour/) (DAW)
 - [`kdenlive`](https://archlinux.org/packages/extra/x86_64/kdenlive/) (Video editor)
 
+## Graphics
+
+- [`gimp`](https://archlinux.org/packages/extra/x86_64/gimp/) (Image editor)
+- [`inkscape`](https://archlinux.org/packages/extra/x86_64/inkscape/) (Vector graphics editor)
+
 ## Gaming
 
 - [`steam`](https://archlinux.org/packages/multilib/x86_64/steam/) (Game Distribution Platform)
