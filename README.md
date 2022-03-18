@@ -9,7 +9,7 @@ A list of recommendations for Arch Linux packages I find useful. For general ins
 - `pacman -Syu` (Update everything)
 - `pacman -Q` (List installed packages)
 - `pacman -Ql [pkg]` (List files in a package)
-- `pacman -Qo [pkg]` (Find out which package owns a file)
+- `pacman -Qo [file]` (Find out which package owns a file)
 
 ## System
 
