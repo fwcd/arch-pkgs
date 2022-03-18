@@ -60,6 +60,8 @@ Packages for every Arch installation.
 - [`nodejs`](https://archlinux.org/packages/community/x86_64/nodejs/) (JS runtime)
 - [`npm`](https://archlinux.org/packages/community/any/npm/) (Node.js package manager)
 - [`jdk-openjdk`](https://archlinux.org/packages/extra/x86_64/jdk-openjdk/) (Java)
+- [`gradle`](https://archlinux.org/packages/community/any/gradle/) (JVM build tool)
+- [`maven`](https://archlinux.org/packages/community/any/maven/) (JVM build tool)
 - [`ruby`](https://archlinux.org/packages/extra/x86_64/ruby/) (Scripting Language)
 - [`rustup`](https://archlinux.org/packages/community/x86_64/rustup/) (Rust Toolchain Installer)
 - [`go`](https://archlinux.org/packages/community/x86_64/go/) (Go compiler)
