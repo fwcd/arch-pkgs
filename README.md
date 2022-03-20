@@ -151,6 +151,7 @@ Packages for every Arch installation.
 - [`audacity`](https://archlinux.org/packages/community/x86_64/audacity/) (Audio editor)
 - [`ardour`](https://archlinux.org/packages/community/x86_64/ardour/) (DAW)
 - [`kdenlive`](https://archlinux.org/packages/extra/x86_64/kdenlive/) (Video editor)
+- [`obs-studio`](https://archlinux.org/packages/community/x86_64/obs-studio/) (Broadcasting and Screencasting)
 
 ## Graphics
 
