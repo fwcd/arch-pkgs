@@ -103,6 +103,7 @@ Packages for every Arch installation.
 - [`kde-applications`](https://archlinux.org/groups/x86_64/kde-applications/) (Desktop apps, choose what you need)
 - [`redshift`](https://archlinux.org/packages/community/x86_64/redshift/) (Warm colors at night)
 - [`mesa`](https://archlinux.org/packages/extra/x86_64/mesa/) (OpenGL implementation)
+- [`barrier`](https://archlinux.org/packages/community/x86_64/barrier/) (KVM)
 
 ## Daemons
 
