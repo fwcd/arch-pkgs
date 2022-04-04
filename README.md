@@ -128,6 +128,7 @@ Packages for every Arch installation.
 ## Productivity
 
 - [`okular`](https://archlinux.org/packages/extra/x86_64/okular/) (Document Viewer)
+- [`xournalpp`](https://archlinux.org/packages/community/x86_64/xournalpp/) (Handwritten Notes)
 - [`cups`](https://archlinux.org/packages/extra/x86_64/cups/) (Printing System)
 - [`cups-pdf`](https://archlinux.org/packages/extra/x86_64/cups-pdf/) (PDF Printing)
 - [`texlive-most`](https://archlinux.org/groups/x86_64/texlive-most/) (LaTeX)
