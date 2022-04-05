@@ -73,6 +73,8 @@ Packages for every Arch installation.
 - [`strace`](https://archlinux.org/packages/extra/x86_64/strace/) (Syscall tracer)
 - [`patchelf`](https://archlinux.org/packages/community/x86_64/patchelf/) (ELF file patcher)
 - [`sccache`](https://archlinux.org/packages/community/x86_64/sccache/) (Shared compilation cache)
+- [`intellij-idea-community-edition`](https://archlinux.org/packages/community/x86_64/intellij-idea-community-edition/) (JVM IDE)
+- [`pycharm-community-edition`](https://archlinux.org/packages/community/x86_64/pycharm-community-edition/) (Python IDE)
 
 ## Containers
 
