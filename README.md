@@ -59,6 +59,7 @@ Packages for every Arch installation.
 - [`sqlite`](https://archlinux.org/packages/core/x86_64/sqlite/) (Embedded Database)
 - [`nodejs`](https://archlinux.org/packages/community/x86_64/nodejs/) (JS runtime)
 - [`npm`](https://archlinux.org/packages/community/any/npm/) (Node.js package manager)
+- [`yarn`](https://archlinux.org/packages/community/any/yarn/) (Alternative to npm)
 - [`jdk-openjdk`](https://archlinux.org/packages/extra/x86_64/jdk-openjdk/) (Java)
 - [`gradle`](https://archlinux.org/packages/community/any/gradle/) (JVM build tool)
 - [`maven`](https://archlinux.org/packages/community/any/maven/) (JVM build tool)
