@@ -83,6 +83,7 @@ Packages for every Arch installation.
 - [`podman-compose`](https://archlinux.org/packages/community/any/podman-compose/) (Compose file runner)
 - [`buildah`](https://archlinux.org/packages/community/x86_64/buildah/) (OCI container builder)
 - [`kubectl`](https://archlinux.org/packages/community/x86_64/kubectl/) (Kubernetes API client)
+- [`k9s`](https://archlinux.org/packages/community/x86_64/k9s/) (Kubernetes TUI)
 - [`helm`](https://archlinux.org/packages/community/x86_64/helm/) (Kubernetes package manager)
 - [`k3s-bin` (AUR)](https://aur.archlinux.org/packages/k3s-bin) (Lightweight Kubernetes server)
 
