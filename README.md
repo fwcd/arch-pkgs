@@ -151,6 +151,7 @@ Packages for every Arch installation.
 - [`pipewire`](https://archlinux.org/packages/extra/x86_64/pipewire/) (Audio processor/router)
 - [`pipewire-pulse`](https://archlinux.org/packages/extra/x86_64/pipewire-pulse/) (PulseAudio replacement)
 - [`pipewire-jack`](https://archlinux.org/packages/extra/x86_64/pipewire-jack/) (JACK replacement)
+- [`pamixer`](https://archlinux.org/packages/community/x86_64/pamixer/) (CLI mixer)
 - [`helvum`](https://archlinux.org/packages/community/x86_64/helvum/) (PipeWire patchbay)
 - [`ffmpeg`](https://archlinux.org/packages/extra/x86_64/ffmpeg/) (Audio/video converter)
 - [`vlc`](https://archlinux.org/packages/extra/x86_64/vlc/) (Multimedia player)
