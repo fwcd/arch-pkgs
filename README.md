@@ -23,7 +23,7 @@ Packages for every Arch installation.
 
 ## Essential
 
-- [`vim`](https://archlinux.org/packages/extra/x86_64/vim/) (Text Editor)
+- [`neovim`](https://archlinux.org/packages/extra/x86_64/neovim/) (Text Editor)
 - [`git`](https://archlinux.org/packages/extra/x86_64/git/) (Version Control)
 - [`tmux`](https://archlinux.org/packages/community/x86_64/tmux/) (Terminal Multiplexer)
 - [`htop`](https://archlinux.org/packages/extra/x86_64/htop/) (Process Manager)
