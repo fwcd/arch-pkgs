@@ -42,6 +42,7 @@ Packages for every Arch installation.
 
 - [`trash-cli`](https://archlinux.org/packages/community/any/trash-cli/) (Trash helper)
 - [`tree`](https://archlinux.org/packages/extra/x86_64/tree/) (Directory listing)
+- [`fzf`](https://archlinux.org/packages/extra/x86_64/fzf/) (Fuzzy finder)
 - [`jq`](https://archlinux.org/packages/community/x86_64/jq/) (JSON processor)
 - [`zip`](https://archlinux.org/packages/extra/x86_64/zip/) (ZIP archiver)
 - [`unzip`](https://archlinux.org/packages/extra/x86_64/unzip/) (ZIP unarchiver)
